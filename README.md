@@ -1,4 +1,4 @@
-# Syn Layer
+# Syn
 
 ## Requirements
 
